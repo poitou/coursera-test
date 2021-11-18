@@ -1,2 +1,2 @@
 # coursera-test
-Coursera web dev tests
+Coursera web dev course - personal tests
